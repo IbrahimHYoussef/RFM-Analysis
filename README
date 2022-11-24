@@ -1,0 +1,10 @@
+RFM 
+is a method of customer segmentation where it takes into account when was the last time a customer bought from you and how many times, they bought from you and how much they spend on your product  
+
+RFM stands for 
+- Recency: How recently a customer has made a purchase.
+- Frequency: How often a customer makes a purchase.
+- Monetary Value: How much money a customer spends on purchases.
+
+And in this notebook, we will demonstrate Customer Segmentation using RFM on 
+this data set in this link her https://archive-beta.ics.uci.edu/ml/datasets/online+retail
